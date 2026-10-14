@@ -1,0 +1,618 @@
+{
+  "metadata": {
+    "network": "bitcoin_mainnet",
+    "source": "LightningNetwork+ public node directory",
+    "source_url": "https://lightningnetwork.plus/nodes",
+    "retrieved_on": "2026-10-09",
+    "count": 75,
+    "limit": 10000,
+    "selection": "Prime tre pagine del directory, ordinate dal sito; include nodi evidenziati. Campione non casuale.",
+    "caveats": [
+      "Pagine recuperate da cache di età diverse; i valori non formano uno snapshot sincronizzato.",
+      "Capacità approssimata dei canali pubblici, non liquidità spendibile.",
+      "Nessuna informazione verificata su asset RGB o saldi dei canali remoti."
+    ]
+  },
+  "nodes": [
+    {
+      "pubkey": "038e882f795f72725ff150a284f1f916e598f423da7ba37aca8645990c57acc026",
+      "alias": "ARKANSAS-NODE",
+      "public_channels": 7,
+      "advertised_capacity_btc_approx": 0.034,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "032312e5e15e89211df36e473d76af60672e3efebfe42a9b2113acbb456050b502",
+      "alias": "LQWD-Sweden",
+      "public_channels": 32,
+      "advertised_capacity_btc_approx": 2.399,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "03055d3f08f9bf7725dc0644192f045e3466995db33c7464b0e32fb3542d866b87",
+      "alias": "MoneyPrinterGoBrrr 💸",
+      "public_channels": 15,
+      "advertised_capacity_btc_approx": 0.196,
+      "connection": "Tor",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "02a22a8dbecb63144dacaaec0d9a4f4931479585b2ffec8c87933018c7a08bc300",
+      "alias": "nodeasothers",
+      "public_channels": 54,
+      "advertised_capacity_btc_approx": 1.923,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "03a1c25f73695aa181b03de376c168769beb661d3a332ce37ee0ed006da2b9ffd3",
+      "alias": "xmrstreet store",
+      "public_channels": 7,
+      "advertised_capacity_btc_approx": 0.331,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "033d8656219478701227199cbd6f670335c8d408a92ae88b962c49d4dc0e83e025",
+      "alias": "bfx-lnd0",
+      "public_channels": 573,
+      "advertised_capacity_btc_approx": 372.751,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "03a1f3afd646d77bdaf545cceaf079bab6057eae52c6319b63b5803d0989d6a72f",
+      "alias": "Binance",
+      "public_channels": 152,
+      "advertised_capacity_btc_approx": 350.782,
+      "connection": "Unknown",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+      "alias": "ACINQ",
+      "public_channels": 1554,
+      "advertised_capacity_btc_approx": 340.3,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "027100442c3b79f606f80f322d98d499eefcb060599efc5d4ecb00209c2cb54190",
+      "alias": "block-iad-1",
+      "public_channels": 645,
+      "advertised_capacity_btc_approx": 318.753,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "03cde60a6323f7122d5178255766e38114b4722ede08f7c9e0c5df9b912cc201d6",
+      "alias": "bfx-lnd1",
+      "public_channels": 517,
+      "advertised_capacity_btc_approx": 273.578,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "033e9ce4e8f0e68f7db49ffb6b9eecc10605f3f3fcb3c630545887749ab515b9c7",
+      "alias": "LNBiG [Hub-2]",
+      "public_channels": 428,
+      "advertised_capacity_btc_approx": 248.719,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "034ea80f8b148c750463546bd999bf7321a0e6dfc60aaf84bd0400a2e8d376c0d5",
+      "alias": "LNBiG [Hub-1]",
+      "public_channels": 458,
+      "advertised_capacity_btc_approx": 207.175,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "037f990e61acee8a7697966afd29dd88f3b1f8a7b14d625c4f8742bd952003a590",
+      "alias": "fixedfloat.com",
+      "public_channels": 178,
+      "advertised_capacity_btc_approx": 203.124,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "03a93b87bf9f052b8e862d51ebbac4ce5e97b5f4137563cd5128548d7f5978dda9",
+      "alias": "cyberdyne.sh",
+      "public_channels": 305,
+      "advertised_capacity_btc_approx": 193.172,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "03c8e5f583585cac1de2b7503a6ccd3c12ba477cfd139cd4905be504c2f48e86bd",
+      "alias": "Strike",
+      "public_channels": 341,
+      "advertised_capacity_btc_approx": 152.343,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "0294ac3e099def03c12a37e30fe5364b1223fd60069869142ef96580c8439c2e0a",
+      "alias": "okx",
+      "public_channels": 286,
+      "advertised_capacity_btc_approx": 150.028,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "02437c00ef5de2686a6bd60f8acb5c83d17010916010a15f479d5ef84c04f04485",
+      "alias": "Kraken 🐙⚡",
+      "public_channels": 374,
+      "advertised_capacity_btc_approx": 138.62,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "02c91d6aa51aa940608b497b6beebcb1aec05be3c47704b682b3889424679ca490",
+      "alias": "LNBiG [Hub-3]",
+      "public_channels": 340,
+      "advertised_capacity_btc_approx": 131.516,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "021c97a90a411ff2b10dc2a8e32de2f29d2fa49d41bfbb52bd416e460db0747d0d",
+      "alias": "LOOP",
+      "public_channels": 68,
+      "advertised_capacity_btc_approx": 122.279,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "02a98e8c590a1b5602049d6b21d8f4c8861970aa310762f42eae1b2be88372e924",
+      "alias": "ed528ad49bedd1f7a638a",
+      "public_channels": 215,
+      "advertised_capacity_btc_approx": 115.35,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "039174f846626c6053ba80f5443d0db33da384f1dde135bf7080ba1eec465019c3",
+      "alias": "e960fd8385a1603003727",
+      "public_channels": 197,
+      "advertised_capacity_btc_approx": 111.849,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "0322d0e43b3d92d30ed187f4e101a9a9605c3ee5fc9721e6dac3ce3d7732fbb13e",
+      "alias": "Megalithic.me",
+      "public_channels": 134,
+      "advertised_capacity_btc_approx": 79.583,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "037659a0ac8eb3b8d0a720114efc861d3a940382dcfa1403746b4f8f6b2e8810ba",
+      "alias": "nicehash-ln1",
+      "public_channels": 394,
+      "advertised_capacity_btc_approx": 76.246,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "02e4971e61a3f55718ae31e2eed19aaf2e32caf3eb5ef5ff03e01aa3ada8907e78",
+      "alias": "1sats.com⚡️lsp.flashsats.xyz",
+      "public_channels": 175,
+      "advertised_capacity_btc_approx": 76.135,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "0391904d140fdf88d19423513945a5fcc49c606521b65a85f6d6fe46ebdd1c7665",
+      "alias": "LifeIsGood",
+      "public_channels": 133,
+      "advertised_capacity_btc_approx": 70.767,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "03632f5c3e45832ddf045469f117b503764ad71866d961ae5ec8df2c4378ac019a",
+      "alias": "Julia⚡️LND01",
+      "public_channels": 124,
+      "advertised_capacity_btc_approx": 64.252,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "026f46207fd290a33cbd86e29b3ad0a47cdd44ab9aa5267cde66483e10aa9d3180",
+      "alias": "Authenticity",
+      "public_channels": 126,
+      "advertised_capacity_btc_approx": 61.801,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "02f31f23d87a366e5ed28f72546193f85cba1073b7386eafd53b0d349df79ee6f1",
+      "alias": "Uncle Jim's Node",
+      "public_channels": 123,
+      "advertised_capacity_btc_approx": 50.163,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "0326e692c455dd554c709bbb470b0ca7e0bb04152f777d1445fd0bf3709a2833a3",
+      "alias": "allNice | torq.co | second.tech",
+      "public_channels": 236,
+      "advertised_capacity_btc_approx": 49.868,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes"
+    },
+    {
+      "pubkey": "03423790614f023e3c0cdaa654a3578e919947e4c3a14bf5044e7c787ebd11af1a",
+      "alias": "Sunny Sarah ☀️",
+      "public_channels": 385,
+      "advertised_capacity_btc_approx": 46.525,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+      "alias": "BCash_Is_Trash",
+      "public_channels": 392,
+      "advertised_capacity_btc_approx": 42.185,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "03b62dd177f6a8bd72b29a4d4d2b2eaa7fce14384c1d05e78a569a27452f20162b",
+      "alias": "Nova",
+      "public_channels": 189,
+      "advertised_capacity_btc_approx": 26.985,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "020d1617e27ac022395352f2b3774969593d3d6ddff6fb117d820a9dda8da45217",
+      "alias": "i'llTryAnythingOnce",
+      "public_channels": 149,
+      "advertised_capacity_btc_approx": 17.711,
+      "connection": "Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "03d32e5618df518e911e2c0bf4686e9d236ae9ab0afd442f0a5de28b74d64338b3",
+      "alias": "🇨🇭Vix18",
+      "public_channels": 333,
+      "advertised_capacity_btc_approx": 12.242,
+      "connection": "Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "036eb65676a65660e4c1ffd728d88b3d82d027d416fad59867471fe2123de0ab27",
+      "alias": "LSPS1-BOS get-inbound-channel",
+      "public_channels": 91,
+      "advertised_capacity_btc_approx": 12.083,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "0288be11d147e1525f7f234f304b094d6627d2c70f3313d7ba3696887b261c4447",
+      "alias": "yalls.org clearnet-yalls",
+      "public_channels": 84,
+      "advertised_capacity_btc_approx": 57.334,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "038ba8f67ba8ff5c48764cdd3251c33598d55b203546d08a8f0ec9dcd9f27e3637",
+      "alias": "flashsats.xyz",
+      "public_channels": 170,
+      "advertised_capacity_btc_approx": 55.183,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "02c197ffa4c2aa4105dd4c4b7279ba1b9061b22910ebbfa759b0001bed9ee48a16",
+      "alias": "BC.GAME",
+      "public_channels": 38,
+      "advertised_capacity_btc_approx": 46.796,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "02b21730bc36061609cc1fe1bd7f5d3068e0a5e511aaf210a82c046b58020c4aa8",
+      "alias": "Tachyon",
+      "public_channels": 17,
+      "advertised_capacity_btc_approx": 45.62,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "03c157946cc1cd376b929e36006e645fae490b1b1d4156b40db804e01b4bda48cd",
+      "alias": "The Continental",
+      "public_channels": 116,
+      "advertised_capacity_btc_approx": 45.323,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "02dfb4c1dd59216fa6a28d0f012e188516f63517db68c4e4b82c3af41343a05bc4",
+      "alias": "routing.blinkbtc.com",
+      "public_channels": 169,
+      "advertised_capacity_btc_approx": 43.741,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "026af41af0e3861ba170cc0eef8f45a1015125dac57c28df53752dcaeea793b28f",
+      "alias": "BitcoinVN 22",
+      "public_channels": 87,
+      "advertised_capacity_btc_approx": 43.285,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "02e9046555a9665145b0dbd7f135744598418df7d61d3660659641886ef1274844",
+      "alias": "SilentBob",
+      "public_channels": 66,
+      "advertised_capacity_btc_approx": 40.37,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "034b3ecd8d87edf1e13aa23cb34c4f719d2faeeeae10010d44d91f5e432c8e4b5e",
+      "alias": "PaidlyInteractive2⚡",
+      "public_channels": 37,
+      "advertised_capacity_btc_approx": 35.819,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "03ae4b2ec2702284ad54d65d487da02d0d178d0dc533a4cf4e202f19411ab03dca",
+      "alias": "03ae4b2ec2702284ad54",
+      "public_channels": 32,
+      "advertised_capacity_btc_approx": 35.385,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "0324ba2392e25bff76abd0b1f7e4b53b5f82aa53fddc3419b051b6c801db9e2247",
+      "alias": "kappa",
+      "public_channels": 510,
+      "advertised_capacity_btc_approx": 31.707,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "03abf6f44c355dec0d5aa155bdbdd6e0c8fefe318eff402de65c6eb2e1be55dc3e",
+      "alias": "OpenNode.com 1",
+      "public_channels": 49,
+      "advertised_capacity_btc_approx": 27.987,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "03501a74753e0f6ae270a1e4e2ffbbc37f7a796360e650c1121c18e116b22ac106",
+      "alias": "IBEX_Ops1",
+      "public_channels": 90,
+      "advertised_capacity_btc_approx": 26.801,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "02e20917565c68c798687ab39d4cc0b3409ac079bd360f03e8bb18c8090da426a2",
+      "alias": "lndnode08",
+      "public_channels": 82,
+      "advertised_capacity_btc_approx": 24.771,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "0364913d18a19c671bb36dd04d6ad5be0fe8f2894314c36a9db3f03c2d414907e1",
+      "alias": "LQWD-Canada",
+      "public_channels": 469,
+      "advertised_capacity_btc_approx": 24.448,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "033b63e4a9931dc151037acbce12f4f8968c86f5655cf102bbfa85a26bd4adc6d9",
+      "alias": "Garlic🧄",
+      "public_channels": 189,
+      "advertised_capacity_btc_approx": 21.352,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "02cad4ec4c8b0dc2c7035a1898f979c8c7169bdff74e01ad6ca7aea59d85c59e8b",
+      "alias": "xmrk reloaded",
+      "public_channels": 231,
+      "advertised_capacity_btc_approx": 19.822,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "02dfe525d9c5b4bb52a55aa3d67115fa4a6326599c686dbd1083cffe0f45c114f8",
+      "alias": "02dfe525d9c5b4bb52a5",
+      "public_channels": 100,
+      "advertised_capacity_btc_approx": 19.189,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes?page=2"
+    },
+    {
+      "pubkey": "02a0f17d3ddb81b3b0c048956baebdf68468c9d7c8b851e5d26354a64a54cff562",
+      "alias": "Goblin⚡Node",
+      "public_channels": 76,
+      "advertised_capacity_btc_approx": 21.735,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "02f6155b106a9f92a13738833ec7e25da58fab1fdef3ac085571c3984bb277d547",
+      "alias": "VIVA",
+      "public_channels": 209,
+      "advertised_capacity_btc_approx": 19.757,
+      "connection": "Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "02757afbc23eafd8c8ffb02fbf92c8ee6bcceb29fbff4d12087f8191a49dc57ef4",
+      "alias": "BitGo Routing Node",
+      "public_channels": 266,
+      "advertised_capacity_btc_approx": 18.882,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "031df8ea711416b52d33c2f4a9b2a41d82f1da3c7672ffef2c24b0751cbdb75404",
+      "alias": "speed1",
+      "public_channels": 45,
+      "advertised_capacity_btc_approx": 18.821,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "0340cfadaa3324e0dd176a9969be050114278f93260e1b6333bd2a2a2ea03c64a3",
+      "alias": "Babylon-4a",
+      "public_channels": 283,
+      "advertised_capacity_btc_approx": 18.787,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "025f1458d1ca75cb46b289b033a9c520f88d66aa54c2034c95070be76d2def3021",
+      "alias": "MOLA",
+      "public_channels": 181,
+      "advertised_capacity_btc_approx": 18.647,
+      "connection": "Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3",
+      "alias": "CoinGate",
+      "public_channels": 1327,
+      "advertised_capacity_btc_approx": 17.892,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "02f9cdc8df3f142dcef499ce66464e2697f6e80e0db4b1d49c86f3e272931191c1",
+      "alias": "Porcino 🍄‍🟫",
+      "public_channels": 49,
+      "advertised_capacity_btc_approx": 17.847,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "03ac2abafea57755b9487247b01234ca7c8e7511fd424f012ce24bf6d8836dcc45",
+      "alias": "speed6",
+      "public_channels": 38,
+      "advertised_capacity_btc_approx": 16.696,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "033acb18b31498eb6503e06172dfd281b5b64df17b8a7cb6b2bcecfd89f275b755",
+      "alias": "T🌮CO",
+      "public_channels": 131,
+      "advertised_capacity_btc_approx": 15.795,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "024c08d7cded0993167094b1b941ec58ff594951c94094e916220f26dc2055f5ea",
+      "alias": "Coinduit",
+      "public_channels": 163,
+      "advertised_capacity_btc_approx": 13.806,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "0206db3b9c7475b246d380987bb77cf55acb65e2b0913b6e7d97063efd6d3d3d95",
+      "alias": "Open_Hand",
+      "public_channels": 144,
+      "advertised_capacity_btc_approx": 12.688,
+      "connection": "Clearnet",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "032ae3168ba52314da581d6b6693c562b437a9cf805933d4d69e7801547e07302e",
+      "alias": "LQWD-France",
+      "public_channels": 125,
+      "advertised_capacity_btc_approx": 12.68,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "02f4c77dcf12255ccf705c18b8d6b95e4f884910bf61e8aa21242607193a79da1b",
+      "alias": "WCC-BOUNCER",
+      "public_channels": 160,
+      "advertised_capacity_btc_approx": 11.945,
+      "connection": "Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "0202e7727ee46d943a44c7bf0dce14220a839630dee67d03446bf935178b55a0df",
+      "alias": "The Captain [Coincept.com]",
+      "public_channels": 98,
+      "advertised_capacity_btc_approx": 11.445,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "037f66e84e38fc2787d578599dfe1fcb7b71f9de4fb1e453c5ab85c05f5ce8c2e3",
+      "alias": "HODLmeTight",
+      "public_channels": 113,
+      "advertised_capacity_btc_approx": 11.211,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "03641a88d80a2a85bbecd770577aca9b5495616e9fef63d66ef2631b7cca1d395d",
+      "alias": "Nodelou🐈",
+      "public_channels": 80,
+      "advertised_capacity_btc_approx": 11.202,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "03e9c99fddf5aaa60e22c166622206947b1fb14ae2926f550f837af6aa83556bb8",
+      "alias": "Shockwave Rider",
+      "public_channels": 162,
+      "advertised_capacity_btc_approx": 10.947,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "034a879c36f418cb5b44b6903b3c6c1cfb5f4beb1e79b9b479c040b7df9cbc56be",
+      "alias": "pedroLND",
+      "public_channels": 93,
+      "advertised_capacity_btc_approx": 10.853,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "03bd6d28432d67effa2b2b89dd5fd68697940e8a8f2fbb84aaae90d584295b03bf",
+      "alias": "LightningCoins⚡",
+      "public_channels": 66,
+      "advertised_capacity_btc_approx": 10.731,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "035542f0f213a5b6e985dff0e0fd973da01bd77325d44242fc325d0ea8eea3d312",
+      "alias": "🐝BeeHiveV3⚡",
+      "public_channels": 93,
+      "advertised_capacity_btc_approx": 10.702,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    },
+    {
+      "pubkey": "03223cf7709a22ade0e34764e7222ffa792fbbba2878a75b84705545f3726021f6",
+      "alias": "LNL",
+      "public_channels": 166,
+      "advertised_capacity_btc_approx": 10.502,
+      "connection": "Clearnet / Tor",
+      "source_page": "https://lightningnetwork.plus/nodes?page=3"
+    }
+  ]
+}
